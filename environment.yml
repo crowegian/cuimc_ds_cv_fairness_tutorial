@@ -1,0 +1,12 @@
+name: cv_fairness_workshop
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pillow
+  - numpy
+  - matplotlib
+  - tqdm
+  - scikit-learn
+  - scikit-image
+prefix: /home/oliver/anaconda3/envs/cv_fairness_workshop
