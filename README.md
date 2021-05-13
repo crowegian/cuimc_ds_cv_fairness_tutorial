@@ -1,7 +1,7 @@
 # Compute Vision Fairness Tutorial.
 This work is modeled after the work in [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
-To get ready for this lesson please download the data from [here](https://drive.google.com/file/d/1kJYOJCQaRFXmIHnzcu4nNnxuRJwRoe3d/view?usp=sharing)
+To get ready for this lesson please download the data from [here](https://drive.google.com/file/d/1kJYOJCQaRFXmIHnzcu4nNnxuRJwRoe3d/view?usp=sharing). Extracrt the two folders into the same directory as the jupyter notebook.
 Then install the conda environment from the `environment.yml` file by running `conda env create -f environment.yml
 `
 And finally, if you haven't already, please go ahead and pull this repo. We'll be working within the jupyter notebook.
